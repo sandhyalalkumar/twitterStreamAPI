@@ -1,0 +1,428 @@
+,text,lang,country
+0,【大規模スマホゲー】Python未経験エンジニアとの最初の1ヶ月OJTメモ - Qiita(113):https://t.co/qIqivJJHmq,ja,
+1,RT: https://t.co/SkJ6ReWyCu TheABB Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #androidD… https://t.co/IeakZJCXbI,en,
+2,RT: https://t.co/SkJ6ReWyCu PressPadLounge Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #… https://t.co/IeakZJCXbI,en,
+3,RT: https://t.co/SkJ6ReWyCu GracefulRok Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #and… https://t.co/IeakZJCXbI,en,
+4,Swift has been on Github for like a week and already over 17000! Stars. Ruby has been there forever and only has 8500.,en,
+5,RT: https://t.co/SkJ6ReWyCu FabTechnoMelO Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #a… https://t.co/IeakZJCXbI,en,
+6,RT: https://t.co/SkJ6ReWyCu Ferdinandcutie Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #… https://t.co/IeakZJCXbI,en,
+7,RT: https://t.co/SkJ6ReWyCu dansantanna Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #and… https://t.co/IeakZJCXbI,en,
+8,RT: https://t.co/SkJ6ReWyCu BostonBizWomen Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #… https://t.co/IeakZJCXbI,en,
+9,RT: https://t.co/SkJ6ReWyCu ekjactly Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #androi… https://t.co/IeakZJCXbI,en,
+10,RT: https://t.co/SkJ6ReWyCu victordivx44 Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #an… https://t.co/IeakZJCXbI,en,
+11,RT: https://t.co/SkJ6ReWyCu twiliew Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #android… https://t.co/IeakZJCXbI,en,
+12,RT: https://t.co/SkJ6ReWyCu _ShaidMahmood Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #a… https://t.co/IeakZJCXbI,en,
+13,RT: https://t.co/SkJ6ReWyCu bhavana1110 Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #and… https://t.co/IeakZJCXbI,en,
+14,RT: https://t.co/SkJ6ReWyCu KanektaIOT Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #andr… https://t.co/IeakZJCXbI,en,
+15,RT: https://t.co/SkJ6ReWyCu IngDanItalia Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #dev #an… https://t.co/IeakZJCXbI,en,
+16,diz q é fã de supernatural mas nunca chamou a katie cassidy de ruby loira na vida,pt,
+17,.@clanruby さんの @YouTube 動画を高く評価しました: https://t.co/FusCUYtmy0 RuBy BDASH :Introducing -by Sy4Ro,ja,
+18,#Deals_us #Jewelry_Watches https://t.co/1RlGHOKjQG Red Ruby &amp; Diamond Fashion Engagement Ring Women 10K Yellow Gol… https://t.co/Tfd8BXHemN,en,
+19,#Bookmarked:  RVM: Ruby Version Manager - Typical RVM Project Workflow  https://t.co/UQhKBCCZ9x,en,
+20,"@mxey Das jetzt nicht, das ist ja auch nicht der offizielle Client. Dafür muss ich mit dem da nicht nginx aus- und nen python-httpd anmachen",de,
+21,startup124: RT: https://t.co/FvPN5rJOTN FabTechnoMelO Help us with our research &amp; #giveaway #iPhone6s #Ruby #php … https://t.co/rUpm1onPEs,en,
+22,startup124: RT: https://t.co/FvPN5rJOTN Ferdinandcutie Help us with our research &amp; #giveaway #iPhone6s #Ruby #php… https://t.co/rUpm1onPEs,en,
+23,startup124: RT: https://t.co/FvPN5rJOTN dansantanna Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #A… https://t.co/rUpm1onPEs,en,
+24,startup124: RT: https://t.co/FvPN5rJOTN BostonBizWomen Help us with our research &amp; #giveaway #iPhone6s #Ruby #php… https://t.co/rUpm1onPEs,en,
+25,startup124: RT: https://t.co/FvPN5rJOTN ekjactly Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS … https://t.co/rUpm1onPEs,en,
+26,startup124: RT: https://t.co/FvPN5rJOTN victordivx44 Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #… https://t.co/rUpm1onPEs,en,
+27,startup124: RT: https://t.co/FvPN5rJOTN twiliew Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AWS #… https://t.co/rUpm1onPEs,en,
+28,startup124: RT: https://t.co/FvPN5rJOTN _ShaidMahmood Help us with our research &amp; #giveaway #iPhone6s #Ruby #php … https://t.co/rUpm1onPEs,en,
+29,startup124: RT: https://t.co/FvPN5rJOTN bhavana1110 Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #A… https://t.co/rUpm1onPEs,en,
+30,startup124: RT: https://t.co/FvPN5rJOTN KanektaIOT Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #AW… https://t.co/rUpm1onPEs,en,
+31,startup124: RT: https://t.co/FvPN5rJOTN IngDanItalia Help us with our research &amp; #giveaway #iPhone6s #Ruby #php #… https://t.co/rUpm1onPEs,en,
+32,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+33,"RT @micheletitolo: To exit the swift repl, it’s control+d like with python, not control+c like irb. #iosdev",en,
+34,RT @AngularJS_News: RT @AliyahChoudhry Can #JavaScript frameworks be used for building #HTML5 web applications  #jQuery #css #php #An... ht…,en,
+35,@ngt5479 私Python分かりません…,ja,
+36,"RT @tommorris: node has npm. python has pypi. ruby has gems. perl has cpan.
+
+swift needs taylor.
+
+make it happen internet.",en,
+37,"Simple and easy to build on your first chat messenger using JavaScript.
+ https://t.co/cnwmlWHEPn",en,
+38,"@paiza_run ruby:puts""@""+""paiza_run""",en,
+39,"RT @ReactJS_News: RT @allsecretcoding Building a #ReactJS based app. 
+
+Courtesy of @_marcscholten #JavaScript https://t.co/g3g9WN7ZkD https…",en,
+40,RT @misheardIyric: Ruby//twenty one pilots http://t.co/xxuYgLshyP,en,
+41,WEB ブラウザで起きた JavaScript のエラーをサーバに送りたい - BattleProgrammerShibata https://t.co/xpMHd5WWBJ,ja,
+42,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+43,Brilliant #gift products https://t.co/7h41bMxlB5 https://t.co/IrUcgYOVqG,en,
+44,"Ruby Tuesday, Inc. $RT Shares Up 3.9% https://t.co/tLWSdAx4nH",en,
+45,@oshiotter フィールドのリストとって繰り返し処理するだけで済むけどモデルじゃ無理かな。pythonで書けばいけるけど,ja,
+46,Hacking Secret Ciphers with Python Hacking Se https://t.co/XnXSK8zV7B #CyberSecurity #InfoSec #BigData #OSINT #IoT https://t.co/vLDGDjG6op,en,
+47,Hacking Secret Ciphers with Python Hacking Se https://t.co/conSJWnCkE #CyberSecurity #InfoSec #BigData #OSINT #IoT https://t.co/dE6hE13dDg,en,
+48,RT @nodenpm: mathjs (2.5.0): https://t.co/AdtwOtjMPJ Math.js is an extensive math library for JavaScript and Node.js. It features a flexibl…,en,
+49,"RT @ka_tana_ua: Skills to master in the nearest two months: HTML, CSS, JavaScript, jQuery, Ruby on Rails.",en,
+50,Bliss.js — Heavenly JavaScript! https://t.co/nd5rSDurua,en,
+51,javascript: Part6:イベントループ | μ'sと学ぶソフトウェア開発入門 https://t.co/pN8u5meHmr,ja,
+52,"I required some urgent work on my website which requires knowledge mainly in JavaScript and PHP.\r\n\r\nInclude \""… https://t.co/O5Vh25dz3h",en,
+53,Stephanie Eden Ruby Pummel lol x https://t.co/e3tNR4s6hT,en,
+54,Let me hold the whip :) https://t.co/6JcQvqIIeG,en,
+55,"RT @carlesjove: This is awesome! If you're starting in Ruby, have a look.  https://t.co/1fwCK5Cecd",en,
+56,Deals #5053: https://t.co/jtyKOqdONE Dooney &amp; Bourke Claremont Python Domed Satchel https://t.co/CB8akx8scR,en,
+57,"""""""Build failed: ""ERROR: The Python zlib extension was not compiled. Missing the zlib?"" """""" https://t.co/Q8Yx0ivxHq",en,
+58,cooonnns : Hoy ruby wag mong masyado hawakan kamay ng asawa ko… https://t.co/fcOieCDyh4,tl,Republika ng Pilipinas
+59,Can JavaScript Frameworks be used for Building HTML5 Web Applications? - AngularJS News https://t.co/eX1lWcpRJp,en,
+60,RT @AngularJS_News: Can JavaScript Frameworks be used for Building HTML5 Web Applications? - AngularJS News https://t.co/eX1lWcpRJp,en,
+61,"Today in #Ruby, #Rails, &amp; #Python is out! https://t.co/fTmX8eZWga Stories via @andresz @PyLadiesDub @sylvain_",en,
+62,"RT @ka_tana_ua: Skills to master in the nearest two months: HTML, CSS, JavaScript, jQuery, Ruby on Rails.",en,
+63,My guy used to dash vodka ka brutal fruit. Ravishing ruby. Then add two shots of Po10C,en,
+64,Crocodile python by Rick Ross is dope.. 🎧🎵🎵🎵,en,
+65,"Like saying ""I can't be overweight, I have a lettuce in my fridge"" https://t.co/fy6WXXY6MK",en,
+66,RT @AngularJS_News: Can JavaScript Frameworks be used for Building HTML5 Web Applications? - AngularJS News https://t.co/eX1lWcpRJp,en,
+67,Aaron Patterson (@tenderlove) is as amazing as always. Here starring in “Inside Ruby’s VM: The TMI Edition” 💜💙💚💛❤️ https://t.co/wTGPgKLxfH,en,
+68,"RT @tommorris: node has npm. python has pypi. ruby has gems. perl has cpan.
+
+swift needs taylor.
+
+make it happen internet.",en,
+69,Very vice talaga si ruby huhuhu baka mainlove din ako skanya😳,tl,
+70,RT @AngularJS_News: Can JavaScript Frameworks be used for Building HTML5 Web Applications? - AngularJS News https://t.co/eX1lWcpRJp,en,
+71,"RT @momijiame: はてなブログに投稿しました #はてなブログ
+Python: オブジェクトを漬物 (Pickle) にする - CUBE SUGAR CONTAINER
+https://t.co/R3N8YSaKSv",ja,
+72,"RT @smashingmag: You want to use vanilla JavaScript, but native APIs seem to be a bit unwieldy? This will help: @LeaVerou’s Bliss.js. https…",en,
+73,Ain't life unkind?  https://t.co/sm5PaKRfPX,en,
+74,"RT @DeepInTheCode: Today in #Ruby, #Rails, &amp; #Python is out! https://t.co/fTmX8eZWga Stories via @andresz @PyLadiesDub @sylvain_",en,
+75,RT: nadine1939: RT #Arizona #Ruby #HummingBird #Painting https://t.co/zAX3z4FUaq #fineartamerica #Pinterest #totebags #phonecases #TShirts…,en,
+76,Books for Javascript Learning https://t.co/kBzq3YCKzQ #Javascript #Amazon #Book https://t.co/LH2IhSpGFZ,en,
+77,Javascript library that runs any .vi on browser without LabVIEW installed. WebGL/WebCL FPGA Deepmind SAP Forex IBM Nasdaq 1449318601,en,
+78,"RT thecodefactor #WebDev #FrontEnd #Tools - 'Beautify, unpack or deobfuscate #JavaScript and #HTML, make #JSON/JSO… https://t.co/uiJHtPaZm3",en,
+79,"RT nodenow Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/xda1HqeTbz
+---
+#UX #jQuery #webdesign #CSS #w…",en,
+80,RT @YiddishNinja: @crtr0 set up a Minecraft server with JavaScript modding in Docker... docker run -p 25565:25565 -it tclavier/scriptcraft …,en,
+81,"RT nodenow 3 User experience improving #JavaScript libraries you should know about
+https://t.co/xTFsubyK80
+---
+#webdesign #UX #UI #webdev",en,
+82,Coding on sea blocks .. &lt;3#Alexandria #sea #programming #facebookAPI #JavaScript #water #waves… https://t.co/0uqaXPD6ZA,en,
+83,"RT nodenow #WebDev #FrontEnd #Tools - 'Beautify, unpack or deobfuscate #JavaScript and #HTML, make #JSON/JSONP rea… https://t.co/uiJHtPaZm3",en,
+84,"RT creative_punch Making an animated #HTML5 #CSS3 #jQuery bar chart
+https://t.co/p3lmKRAZfx
+---
+#JavaScript #UX #tutorial #CSS #webdev #we…",en,
+85,Today's Fitness in UK.「Lethal Bizzle」's 『Party Right (feat. Ruby Goe) [Radio Edit]』 https://t.co/iRvJf7Gwmv,en,
+86,Must See JavaScript Dev Tools That Put Other Dev Tools to Shame — JavaScript Scene https://t.co/aqWgDQKF0L,en,
+87,"RT creative_punch Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/xda1HqeTbz
+---
+#CSS #jQuery #tutorial …",en,
+88,Ruby Jewelry https://t.co/oR66K1was8 https://t.co/lJWHMfVIsk,en,
+89,RT nodenow #SVG: So erstellst du interaktive Grafiken für deine #Website https://t.co/7SikNfasxi #Webdesign #JavaScript,de,
+90,"RT nodenow 3 User experience improving #JavaScript libraries you should know about
+https://t.co/xTFsubQkZy
+---
+#webdesign #UX #UI #webdev",en,
+91,"RT nodenow Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/xda1HqeTbz
+---
+#CSS #jQuery #tutorial #UX #we…",en,
+92,RT coursedeals_ 90% off Javascript: Understanding the Weird Parts: https://t.co/iqFXfG90RU ... #udemy #webdesign,en,
+93,"Ruby and Diamond Ring, Vintage 3 stone Ruby dress ring, size 7.5, Suitable as Promise ring,… https://t.co/8u7ovdF4JR https://t.co/xJpovKsvh8",en,
+94,Metronic - Responsive Admin Dashboard Template https://t.co/CEXZXvKv7m #trends2015 #wordpress #javascript #jQuery #html5 #css3 #php,en,
+95,"RT @formvalidation: A small, modern, dependency-free smooth scrolling library #JavaScript https://t.co/jmy5Z4HjKs #frontend #developer http…",en,
+96,58 #Javascript - Eventos de teclado... https://t.co/XxQmVl61s6 https://t.co/nD4DTAOdQJ,pt,
+97,¿Cómo agregar markers (POIs) en Google Maps? #JavaScript https://t.co/1Zy3oL5Rww https://t.co/XdyG4yE7Pk,es,
+98,do new things and good things happen. just  moved all the #R and #python stuff from #vim to #atomeditor,en,
+99,Aplicando filtros desde un #Javascript con AngularJs... https://t.co/qlcpXCbCMk https://t.co/i9Y5ZwaAV5,es,
+100,Senior Software Engineer (Ruby) – Sandeep https://t.co/7qIYCAVlid Job Hampshire,en,
+101,"Ruby on Rails Tech Lead,,,,,,,,,,,,,,,,,,Fulltime/Permanent,,,,,,,,,,,,,,,,,,,,,Portsmouth, NH https://t.co/bTTZgRY1dl Job Hampshire",en,
+102,"RT @lukas2511: Well, @letsencrypt/acme doesn't really need a fat python client. Here is my implementation as a shell-script: https://t.co/d…",en,
+103,"vimの設定いじって、F5キー1つでterminalから直接c, fortran, python, latexのコンパイルと実行をできるようにした",ja,
+104,"PHP Developer - HTML, CSS, JavaScript - retail software house 
+Trafford Apply now get in touch amazing culture",en,
+105,RT @faveship: ruby and belle - once upon a time http://t.co/HNcTWbJGDi,en,
+106,https://t.co/vi6jRae13x #7120 Rose Gold Ruby and Diamond Proposal Ring https://t.co/rCyC8Q6i94,en,
+107,Nouvelle offre d'#emploi chez Groupe SII à #Toulouse - #Ingénieur #développement Java et Python H/F #travail https://t.co/8RPWiDrjPU,fr,
+108,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+109,"New Job:Remote Javascript/Node.js Lead 
+Developer  #angularjs #baltimore #developer #JobSearch #tweetmyjobs
+https://t.co/7mthUSojsC",en,
+110,"RT @floridarussian: New Job:Remote Javascript/Node.js Lead 
+Developer  #angularjs #baltimore #developer #JobSearch #tweetmyjobs
+https://t.c…",en,
+111,"RT @tommorris: node has npm. python has pypi. ruby has gems. perl has cpan.
+
+swift needs taylor.
+
+make it happen internet.",en,
+112,RT @FavCharacters: Ruby https://t.co/0Et8hXa0E0,ht,
+113,https://t.co/XeWDauBAqz #8765 Real Diamond &amp; Ruby Flower Wedding L Shape 14k Gold Nose Piercing Pin Ring Stud https://t.co/royUXMNl4A,en,
+114,indexr 0.1.6: A general purpose indexer written in Python. https://t.co/znmLWpgu64,en,
+115,RT @BadLilAmerican: AssisFavre Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co…,en,
+116,P-DEALS &gt;&gt; https://t.co/re8WL5nRjK #28813 #9843 Vintage 10K Yellow Gold Ruby Diamond Cluster Ring Estate Jewelry L… https://t.co/5GRvwFzbtd,en,
+117,https://t.co/i3ZKMNypHf #7244 Mens Celebrity Pendant 14k Yellow Gold Finish Silver Princess Cut Lab Ruby Charm https://t.co/7Xyz1e3Zyv,en,
+118,"Javascript: The Ultimate guide for javascript programming (javascript for beginners, how to program, software… https://t.co/1nseUBW7xZ",en,
+119,https://t.co/LvIcUvlQ7B #9472 14k Yellow Gold On Silver Jesus Face + Red Ruby Garnet Pendants Chains Combo Set https://t.co/mnfak8fxu8,en,
+120,https://t.co/K8qTCtqjIm #2201 Sterling Silver Jesus + Red Ruby Garnet Birdman Style Pendants &amp; Chains Combo https://t.co/9fiwWlMn3i,en,
+121,📷 facet-5: plot twist: Ruby and Sapphire were sent to earth to get a room ◀  PREVIOUSLY https://t.co/ieCQhkXTpv,en,
+122,"RT @pocket_pro: Can you answer this question about #Ruby? Answer with RT, or install #PocketProgramming if you can't answer. https://t.co/7…",en,
+123,"I liked a @YouTube video from @thekingnappy https://t.co/tP0j6qhDMX Pokémon Omega Ruby Wonderlocke w/ TheKingNappy! - Ep 3 ""AUBREY",en,
+124,"Under 10s colts lose 14-1 at home to a very good rockleaze reds, our goal from birthday girl Ruby B, MOTM: Ruby B &amp; Callum A",en,United Kingdom
+125,【Ruby bot】いいですよ、むしろ大歓迎。,ja,
+126,"20 cursos de programación gratuitos para tomar en línea https://t.co/2fu5JAtRn2 PHP, HTML, CSS, C, JavaScript, Swift y más.",es,
+127,"20 cursos de programación gratuitos para tomar en línea https://t.co/S0x2pOOmXx PHP, HTML, CSS, C, JavaScript, Swift y más.",es,
+128,RT @365Python: The perfect CV for a developer in investment banking - eFinancialCareers https://t.co/ehCwh21hgi #python #coding,en,
+129,RT @JF0LKINS: Go is ideal for clients like this. Yet the official #le client is in python. Why? https://t.co/UDP5eaVNLW #letsencrypt #golang,en,
+130,.@clanruby さんの @YouTube 動画を高く評価しました: https://t.co/F9DWX9ptyv RuBy BDASH :Introducing -by Sy4Ro,ja,
+131,RT @nikiforosnelly: Raw ruby stud earrings sterling silver ruby by nikiforosnelly https://t.co/AYpbWnsyq2 via @Etsy,en,
+132,.@clanruby さんの @YouTube 動画を高く評価しました: https://t.co/M2vpBOu2Ln RuBy BDASH :Introducing -by Sy4Ro,ja,
+133,Ruby Gold,en,
+134,@KuraiNoBlower Karine-Ruby enfin avant il s'appelait pas comme ça xD,fr,
+135,"IBM is hiring a #Ruby #on Rails Developer, apply now! #Austin #jobs https://t.co/llCVE7d5JW https://t.co/JbKLuPlEdY",en,
+136,43 #Javascript - Seleccionando un elemento de una lista de nodos (elementos)... https://t.co/6flzZNtWs8,es,
+137,RT @hackaday: The OpenMV project is a #Python-powered machine vision module on #HackadayIO. https://t.co/6d4WHWxvJq https://t.co/DMSynf8Y3G,en,
+138,https://t.co/WnudpVTQGH #1572 Diana C Platinum Emerald Cut Diamond Ring 1.5 C with Ruby 18K Scrolling Gorgeous https://t.co/FNeREpQkPz,en,
+139,"How to Build a Todo App Using React, Redux, and Immutable.js https://t.co/AODKd6SXEK #javascript #react #redux #immutablejs",en,
+140,Si vols aprendre #AngularJS #javascript no pots faltar al proper meetup. Uneix-te ara ✨🎄🎅 https://t.co/mf0RSsyFnH https://t.co/I8VseQMyJs,und,
+141,JobAanbiedingBE: nodenow: nodenow: #Java Web Developer job bij Syntegro in #Beringen #webev #jobs #javascript #vac… https://t.co/GGWLvwsL4Q,nl,
+142,nodenow: nodenow: nodenow: #Java Web Developer job bij Syntegro in #Beringen #webev #jobs #javascript #vacature #b… https://t.co/GGWLvwsL4Q,nl,
+143,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+144,Esse #javascript ta me perseguindo osuissa uhauhuha #frontux via mergo_ux @ Imasters https://t.co/Yy7yZViF4x,pt,
+145,"Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/FtmSR3OHuQ
+---
+#CSS #jQuery #tutorial #UX #webdesign",en,
+146,RT @py3k: horas - Registro de horas pypi: https://t.co/bGOknMIILm www: https://t.co/F52LUKa8sl #python,es,
+147,Apply now to work for CyberCoders as #Senior #JavaScript/UI Developer in #Sunnyvale #jobs https://t.co/thw73fvKAF,en,
+148,"#WebDev #FrontEnd #Tools - 'Beautify, unpack or deobfuscate #JavaScript and #HTML, make #JSON/JSONP readable, etc' https://t.co/Qbx8bY3Ir5",en,
+149,reagent - #JavaScript Testing utilities for #React by the AirbnbNerds https://t.co/nzfSukWDsu,en,
+150,“Must See JavaScript Dev Tools That Put Other Dev Tools to Shame” by _ericelliott https://t.co/jThpPpB4Pi #javascript,en,
+151,"Give us a like on #Facebook at https://t.co/7qnuB7O2ja if you enjoy our tutorials!
+
+---
+#JavaScript #coding #UX #jQuery #HTML5 #PHP",en,
+152,"Software #Engineer T Shirt 
+https://t.co/9XhmTPfgBb 
+#programming #code #Codecademy #php #python #javascript https://t.co/9DtlP6iEt6",en,
+153,"Python Programmer Tee 
+https://t.co/9zbowCun7f 
+#programming #code #Codecademy #php #python #javascript https://t.co/oDv44uOavr",de,
+154,"Making an animated #HTML5 #CSS3 #jQuery bar chart
+https://t.co/edr9Dvu2Wv
+---
+#JavaScript #UX #tutorial #CSS #webdev #webdesign #UI",en,
+155,How to Write an Open Source JavaScript Library https://t.co/GgI9NaXr6m  #javascript https://t.co/IS5Zcvk6Xx,en,
+156,https://t.co/sjnPn1v6Lb #7354 1.50 CT RUBY CUT GEMSTONE SOLITAIRE ENGAGEMENT RING 14K GOLD WEDDING BAND https://t.co/7R7Z1QQ81i,en,
+157,Real time data flow with Redux and Socket.io https://t.co/I3dkUg4Klm #reactjs #socketio #nodejs #javascript #redux,en,
+158,Books for Javascript Learning https://t.co/pM2muoKJ1t #Javascript #Amazon #Book https://t.co/SIxRQlmT76,en,
+159,Coding on sea blocks .. &lt;3#Alexandria #sea #programming #facebookAPI #JavaScript #water #waves… https://t.co/lmZh3TJlR7,en,
+160,Metronic - Responsive Admin Dashboard Template https://t.co/Tupu0DVjDL #trends2015 #wordpress #javascript #jQuery #html5 #css3 #php,en,
+161,narciscalvet Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+162,pixelstackcom Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+163,58 #Javascript - Eventos de teclado... https://t.co/EkSpnu9tVm https://t.co/il3vsBzIhD,pt,
+164,¿Cómo agregar markers (POIs) en Google Maps? #JavaScript https://t.co/aqMTup5mhg https://t.co/Lk9enLvoYV,es,
+165,Aplicando filtros desde un #Javascript con AngularJs... https://t.co/nKkGhyQb9C https://t.co/fyw9QYaobA,es,
+166,gandhidesigner Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+167,phil_parsons Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+168,"RT @analyticbridge: Python (and R) for Data Science - sample code, libraries, projects, tutorials https://t.co/HJNLLrosGh",en,
+169,FrameworksM Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+170,MaLeK_El_HaWa Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+171,techjunkiejh Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+172,SerDeveloper Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+173,ACY291190 Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+174,telecristy Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/rpnCuHGlV9,en,
+175,"Let's said thank you to Jerry😂📷
+🍖🍤🍔🍕🍰🍫🍽🏫 @ Ruby Tuesday https://t.co/T7vdZQiKqn",en,
+176,"@paiza_run ruby:puts ""@""+""paiza_run ruby:puts ""Hello""""",en,
+177,Etre interrompu par les parents qui rentrent pendant le tournage de l'ep 2 de Rutile Ruby ;(((,fr,
+178,RT @sektionschef: do new things and good things happen. just  moved all the #R and #python stuff from #vim to #atomeditor,en,
+179,rhinestone wing cross https://t.co/Di8sT9cDbK https://t.co/IrUcgYOVqG #gift #christmasgifts #birthday #christmas,en,
+180,"RT @DeepInTheCode: Today in #Ruby, #Rails, &amp; #Python is out! https://t.co/fTmX8eZWga Stories via @andresz @PyLadiesDub @sylvain_",en,
+181,"I think I should delete the Month Python ""Russian Execution"" tweet, it's 😂 but under these circumstances,I find it inappropriate..apologies💗",en,
+182,Prototyping function to #Javascript #Objects #js https://t.co/vGC8HEr7Bd,en,
+183,RT @AgEconomist: Pricing Stock Options via the Binomial Model - Andrew Gibiansky #python  https://t.co/KWtH2ANJv3,en,
+184,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+185,Looking because ruby programmers india: dKjimc,en,
+186,Greyhound Racing Tip: Romford (RACE 10) at 12:47 is Rockstar Ruby at 4/1. Best odds https://t.co/VhvC6HoGiK #greyhoundracing,en,
+187,RT @omarwllorente: On python dictionaries https://t.co/2Y2Ouy6FaG,fr,
+188,"Opening for Bruce Wayne(Python, R, Hadoop, Batman)-Gurgaon, 6 to 10 yrs aditi@unifiedhrservices.com",en,
+189,"New Job - Senior Python Developer in Tulsa, OK https://t.co/C7P5QBTjSj #job",ht,
+190,😩yhu https://t.co/CZQXba1XRf,und,
+191,Ruby Earrings Raw Ruby Natural Hoops Ruby Jewelry https://t.co/oejb4ineNG https://t.co/WUEHec8Dvx,en,
+192,"RT @ReactJS_News: RT @allsecretcoding Building a #ReactJS based app. 
+
+Courtesy of @_marcscholten #JavaScript https://t.co/g3g9WN7ZkD https…",en,
+193,@_allyzonambas @aykotherese Grabe kami ni Ruby ay papatay na sa kilig. Hahahaha,tl,
+194,"RT ► 3 User experience improving #JavaScript libraries you should know about
+https://t.co/7YVpgr0Cht
+---
+#webdesi… https://t.co/b7RVOE3ofX",en,
+195,"RT ► Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/Uz99LqLimB
+---
+#CSS #jQuer… https://t.co/3qcQaU207d",en,
+196,RT ► 90% off Javascript: Understanding the Weird Parts: https://t.co/xfPEiowyiH ... #udemy #webdesign | https://t.co/BT2inv02JQ,en,
+197,"Ruby has just shouted to us ""I don't wanna see any of you jerks ever again"" think she's been watching too much Home Alone 😳",en,
+198,RT @koshian: しかしシェルスクリプトをどれだけ書いても Ruby や Objective-C で開発してても「パソコン」というのはさっぱりわからんものだ。8歳の頃からコンピュータいじってるけどいまさらスプレッドシートの便利さに気づくとか('A`),ja,
+199,Skin Decal Wrap for Aspire Triton 2 Tank mod sticker vape Python https://t.co/ZS5TuM4qno #vape #vaporizer #vapejuice,en,
+200,"RT ► Making an animated #HTML5 #CSS3 #jQuery bar chart
+https://t.co/oMEUb47vPJ
+---
+#JavaScript #UX #tutorial #CSS… https://t.co/oGCQRVcXrP",en,
+201,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+202,"RT ► Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/Uz99LqLimB
+---
+#CSS #jQuer… https://t.co/6d6EFJ1khE",en,
+203,"RT ► Making an animated #HTML5 #CSS3 #jQuery bar chart
+https://t.co/oMEUb47vPJ
+---
+#JavaScript #UX #tutorial #CSS… https://t.co/sKev1Iulig",en,
+204,RT @Louis_Tomlinson: This little girl needs some attention please! #ruby http://t.co/JD1bC6uv1O x http://t.co/d2UP7BKw2g,en,
+205,RT @phil_parsons: Real time data flow with Redux and Socket.io https://t.co/TbrZk9QJQ8 #reactjs #socketio #nodejs #javascript #redux,en,
+206,"RT @kirstin_taylor: HELP I can't stop playing Pokemon Omega Ruby on my 3DS WOW
+
+I'M A CHILD AGAIN (I love it) ❤️❤️❤️❤️ @Pokemon @NintendoAm…",en,
+207,RT @EllenNeufeldt: @ODUSGA honors Ms Ruby from @MonarchDining for her great care of @ODUnow students for 47 years. @ODUSEES https://t.co/dt…,en,
+208,1530 Ct Natural Big Size Pear Shape Red Ruby Gemstone. https://t.co/SgpzW6ND2t https://t.co/WqqRsa42YY,en,
+209,Ruby installed on Ubuntu 10.10 slow on one machine but not other https://t.co/l4tVArKfEn,en,
+210,RT @yaadontcare: @_allyzonambas @aykotherese Grabe kami ni Ruby ay papatay na sa kilig. Hahahaha,tl,
+211,"Check out the project I just built with @FreeCodeCamp: https://t.co/HR8CgKbyXr 
+ #LearnToCode #JavaScript",en,
+212,RT @Emulboy: Etre interrompu par les parents qui rentrent pendant le tournage de l'ep 2 de Rutile Ruby ;(((,fr,
+213,HIGH DEAL &gt;&gt; https://t.co/yurB1MRBx0 #52801 #0316 MAXIMIST GEMSTONE HELIA 2.0 RUBY RED SPRAY TAN UNIT W TBT SAMPLE… https://t.co/yUYJglmT7y,en,
+214,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+215,"RT @SciObservatory: “xkcd-style charts in R, JavaScript, and Python”
+Just what I’ve been waiting for!
+http://t.co/iyU8vqHrIS http://t.co/x3…",en,
+216,"RT @dpobel: ""I hate JavaScript""
+https://t.co/oOYVEQ7cVm",en,
+217,indexr 0.1.7: A general purpose indexer written in Python. https://t.co/GYc4lf7ojO,en,
+218,GO COLTS !! Check latest #NFL update via https://t.co/RwmUqfl4Yd https://t.co/2w1t12LNLY,en,
+219,なんかみんなjavascript好きだな。jsが好きなんてやっぱりみんなロリコンなんだな,ja,
+220,"RT @momijiame: はてなブログに投稿しました #はてなブログ
+Python: オブジェクトを漬物 (Pickle) にする - CUBE SUGAR CONTAINER
+https://t.co/R3N8YSaKSv",ja,
+221,Fashionable cigarette holder and lighter https://t.co/IrUcgYOVqG https://t.co/MmnF6Eg6dk,en,
+222,"RT @tommorris: node has npm. python has pypi. ruby has gems. perl has cpan.
+
+swift needs taylor.
+
+make it happen internet.",en,
+223,"RT @JobsHampshire: Ruby on Rails Tech Lead,,,,,,,,,,,,,,,,,,Fulltime/Permanent,,,,,,,,,,,,,,,,,,,,,Portsmouth, NH https://t.co/bTTZgRY1dl J…",en,
+224,"Overview of the ""Fearless refactoring"" Ruby Book at the @pivorakmeetup
+
+[7m video]
+
+https://t.co/2ZBsacbPCB",en,
+225,"https://t.co/vyBIXh0cWm #5934 WHOLESALE MIX LOT 15 PC RUBY SILVER &amp; SOLID BRASS NECKLACE GM-424.4,SIZE-18TO21. https://t.co/OvUt8zYNgl",en,
+226,#C# #Developer - https://t.co/6C1KCBHt0E XML SQL Server WCF Javascript JQuery IIS LINQ M https://t.co/WgayVMc8Eb,und,
+227,New #job opening at Smith &amp; Keller in #Washington - #Ruby #on Rails Engineer #jobs https://t.co/neO82EviBR https://t.co/JdURyqWejL,en,
+228,Flat on Ruby Street in Salburn gutted by fire #StocktonOnTees https://t.co/gsH4vMGBeF,en,
+229,"@niabrammer @StOswaldsCE Ruby had a great time, thanks for taking her Nia xx said its the winds fault they lost!!! #lovelaughlearn",en,
+230,"I'm hiring: Programmer / Python Developer in Toronto, ON Canada https://t.co/jZG8ZEyWTq #job",en,
+231,"@CorruptedRoyal ~ask,"" her eyes went back to Regina's. ""Ruby isn't an option since I broke up with her tonight. She was being ridiculous~",en,
+232,Python + OPenCV (quick) by kdm9238 https://t.co/aFqRLINIeg https://t.co/QeoNoKYtA1 #job #offcampus #placement #walkin,en,
+233,"@joelfine @SonofLiberty357 @KurtSchlichter @hash_said I too waggle my finger &amp; shake my head - wonderful ""Monty Python-style"" comment. Lol!",en,
+234,"RT @kirstin_taylor: HELP I can't stop playing Pokemon Omega Ruby on my 3DS WOW
+
+I'M A CHILD AGAIN (I love it) ❤️❤️❤️❤️ @Pokemon @NintendoAm…",en,
+235,"RT @CM_JRubio: 20 cursos de programación gratuitos para tomar en línea https://t.co/S0x2pOOmXx PHP, HTML, CSS, C, JavaScript, Swift y más.",es,
+236,Siempre mira el lado brillante de la vida (La vida de Brian - Monty Python) - YouTube https://t.co/XWckeXe0zC,es,
+237,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+238,"When I code in JS, Java or Ruby and then I switch back to PHP, I forget to add '$' to vars or 'function' to methods... Is it just me or..?",en,
+239,I added a video to a @YouTube playlist https://t.co/8JNkjSP70K pokemon ruby destiny life of guardians part 11 saving the world,en,
+240,Javascript library that runs any .vi on browser without LabVIEW installed. WebGL/WebCL FPGA Deepmind SAP Forex IBM Nasdaq 1449318901,en,
+241,https://t.co/h6Y42Jq1xn #8604 Shiny Natural Diamond with Ruby Bypass Engagement Ring 10k White Gold https://t.co/CWPa8XotIE,en,
+242,RT @AngularJS_News: Can JavaScript Frameworks be used for Building HTML5 Web Applications? - AngularJS News https://t.co/eX1lWcpRJp,en,
+243,https://t.co/j962cpv9BO #1709 Bollywood Gold Silver Plated Red Ruby Pearl Bridal Designer CZ AD Necklace set https://t.co/tfQVJmiNvf,en,
+244,"Making a scroll-dependent menu bar with #HTML5 #CSS3 and #JavaScript
+https://t.co/umgK9d8UOp
+---
+#UX #CSS #tutorial #jQuery #webdesign",en,
+245,Dynamic Stock Charts - #JavaScript #jQuery https://t.co/EtVqNqN2YE,en,
+246,"RT @MikeTamir: Five Hundred #DeepLearning Papers, Graphviz and Python https://t.co/USLCwE75CL #MachineLearning #DataScience https://t.co/ve…",en,
+247,#Metro Sidebar #jQuery #JavaScript https://t.co/J0B4ZHvOAS,es,
+248,"Jump.js is a small, modern, dependency-free smooth scrolling library - https://t.co/ReonMvbXIe
+| #JavaScript",en,
+249,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+250,"#JavaScript
+【JavaScriptでリンク】
+location.href=“sample.html”;",ja,
+251,1025Ct. Fabulous Shining Oval Cut Natural African Ruby Gemstone eBay https://t.co/qfz4yMk4Tp https://t.co/ypXyYqL0x5,en,
+252,Need some help to start with #onion #omega in #python check this! #gdgbaselhack https://t.co/HkpkNCrCND https://t.co/p7O9oeZ5e3,en,
+253,"RT @lukas2511: Well, @letsencrypt/acme doesn't really need a fat python client. Here is my implementation as a shell-script: https://t.co/d…",en,
+254,RT @OracleJET: JavaScript applications need to handle routing and history navigation. #OracleJET has out of the box tools for this! https:/…,en,
+255,"@paiza_run ruby:puts ""@""+""paiza_run ruby:puts \""Hello\""""",en,
+256,RT @AngularJS_News: Can JavaScript Frameworks be used for Building HTML5 Web Applications? - AngularJS News https://t.co/eX1lWcpRJp,en,
+257,"@_33550336_ @paiza_run ruby:puts ""Hello"" #paiza_run_result",en,
+258,"@jasonamyers thanks for asking me, I'm always happy to help promote python books and friends' projects!",en,
+259,"Green tree python blending into Bioparc’s surroundings - They are common in New Guinea, Indonesia and Australia... https://t.co/OygMVXY2EK",en,
+260,a number of minecraft tutorials https://t.co/UcUcDwauGP,en,
+261,Ruby: forgot - omni: plus our friend.,en,
+262,GO COLTS !! Check latest Colts update https://t.co/IcDFapdcui https://t.co/2w1t12LNLY,en,
+263,#webdeveloper #frontend #php #верстка #html5 #bitrix #javascript #jquery #less #sass #freelance #yii #angular,und,
+264,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+265,"RT @andrzejkrzywda: Overview of the ""Fearless refactoring"" Ruby Book at the @pivorakmeetup
+
+[7m video]
+
+https://t.co/2ZBsacbPCB",en,
+266,Bon avec un peut de change les PHP avec le 7 on va pouvoir de nouveau ce la pêter en soirée par ce que bon la mode node ou ruby VOILA QUOI,fr,
+267,Giant ANACONDA attacks TIGER - Animal Fight Python vs Tiger vs Jaguar Real Fight https://t.co/ZUfj2w5IYf,en,
+268,"RT @CM_JRubio: 20 cursos de programación gratuitos para tomar en línea https://t.co/S0x2pOOmXx PHP, HTML, CSS, C, JavaScript, Swift y más.",es,
+269,sebmck/lerna (#10 - JavaScript - Daily) https://t.co/VzaLQCW0Y9,en,
+270,"RT @marcel_dmg: Arrow: better dates and times for Python 
+#Python https://t.co/0ehGMVDu69",en,
+271,"The Best Fashion Instagrams of the Week: Dakota Johnson, Ruby Aldridge, and More! https://t.co/duNyCZiutY #Style #Fashion",en,
+272,Мультибраузерное extension(BHO) на javascript для парсинга dom https://t.co/kaMxVdKAFu,und,
+273,"#ruby regex parsing
+#Tech #HowTo
+https://t.co/aQu4nF2Ucc",tl,
+274,https://t.co/U8xgm9ycJ1 #7153 Italy 18K Gold Pin Mouse w Ruby Eyes 7.1 grams 2 1/2” https://t.co/siN3vv30E7,en,
+275,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+276,https://t.co/FFxMjKZzj3 #2083 Natural Ruby &amp; SI Diamond In 14k White Gold Eternity Wedding Ring - 4.79 Tcw https://t.co/OrpiV3Bg8L,en,
+277,RT @zeroSteiner: Stageless payloads for HTTP and HTTPS Python #meterpreter were just landed to @metasploit!,en,
+278,RT @JBaptisteClion: Need some help to start with #onion #omega in #python check this! #gdgbaselhack https://t.co/HkpkNCrCND https://t.co/p7…,en,
+279,.@clanruby さんの @YouTube 動画を高く評価しました: https://t.co/TNz790lfuR RuBy BDASH :Introducing -by Sy4Ro,ja,
+280,"Нужно на основе вебсокетов сделать клиент, на javascript. Подробнее: https://t.co/OqoWVcp7yH
+
+#фриланс, #работаудалённо",ru,
+281,Pokémon Omega Ruby - Nintendo 3DS https://t.co/3QzXmAD1UY,es,
+282,#Job #Atlanta (USA-GA-Atlanta) Javascript Developer- Angular- Rapidly Growing Atlanta Startup!: Javascript Dev... https://t.co/TD4w2kKkBO,in,
+283,#Atlanta #Job (USA-GA-Atlanta) Javascript Developer- Angular- Rapidly Growing Atlanta Startup!: Javascript Dev... https://t.co/A7akeNTXwQ,in,
+284,"@CorruptedRoyal ~different. For example, over the last two days, I went from loving Ruby to not giving less of a shit if anything happened ~",en,
+285,#NowPlaying ▶ Crocodile python by Rick Ross #BlackMarket 🔥👌 https://t.co/rEQkNbWMfT,et,South Africa
+286,.@clanruby さんの @YouTube 動画を高く評価しました: https://t.co/PBZWv3EBa5 RuBy BDASH :Introducing -by Sy4Ro,ja,
+287,"Replicating the Bethesda engine ""patches""/""mods"" system in JavaScript https://t.co/iyunS9iQy9",en,
+288,"RT @nodenow: Software #Engineer T Shirt 
+https://t.co/9XhmTPfgBb 
+#programming #code #Codecademy #php #python #javascript https://t.co/9Dtl…",en,
+289,"RT @nodenow: Python Programmer Tee 
+https://t.co/9zbowCun7f 
+#programming #code #Codecademy #php #python #javascript https://t.co/oDv44uOavr",de,
+290,"RT @CM_JRubio: 20 cursos de programación gratuitos para tomar en línea https://t.co/S0x2pOOmXx PHP, HTML, CSS, C, JavaScript, Swift y más.",es,
+291,"RT @RailsGirlsNS: Drage, vidimo se u 15h danas na #RailsGirls 3 :D #Ruby #rubyonrails #programming https://t.co/e93L3uAIEk",und,
+292,"Know someone for this job? Web UI Developer in Brno, Czech Republic https://t.co/hLeM6bxrNk #javascript #developer",en,
+293,indexr 0.1.8: A general purpose indexer written in Python. https://t.co/czQ2UlDTQO,en,
+294,.@clanruby さんの @YouTube 動画を高く評価しました: https://t.co/Ssru4xhFZ5 RuBy BDASH :Introducing -by Sy4Ro,ja,
+295,"Whhhhhhhhyyy QGIS?
+https://t.co/cKlR4ILZ1J",en,
+296,1 step closer @JrDevMentoring #CodeNewbie #javascript #Python #ruby #dotnet #php #WordPress  #coding #programming https://t.co/5uOOLXcz7Y,en,
+297,Job : New York NY - Junior Software Engineer - Junior Software Engineer Are you a developer with light Python ... https://t.co/gIFdPj8GMB,en,
+298,This bride looks like mam' Ruby #OPW,en,
+299,1725Ct. Attractive Shining Natural Oval Cut African Red Ruby Faceted Gems https://t.co/gitSMKIioU https://t.co/CxFEZvwFZC,en,
+300,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+301,RT @koshian: しかしシェルスクリプトをどれだけ書いても Ruby や Objective-C で開発してても「パソコン」というのはさっぱりわからんものだ。8歳の頃からコンピュータいじってるけどいまさらスプレッドシートの便利さに気づくとか('A`),ja,
+302,RT @nodenow: NeuvooITMTL Help us with our research &amp; we #giveaway #iPhone6s #indiedev #Surface #javascript #java #nodejs https://t.co/pD2Hq…,en,
+303,"RT @KseniyaDelRey1: #MTVSTARS Lana Del Rey
+All the lights in Miami begin to glow 
+Ruby, blue and green, neon too",en,
+304,"RT @JobsHampshire: Ruby on Rails Tech Lead,,,,,,,,,,,,,,,,,,Fulltime/Permanent,,,,,,,,,,,,,,,,,,,,,Portsmouth, NH https://t.co/bTTZgRY1dl J…",en,
+305,"Having a headache with #javascript ""potential infinite #loop"" problem until I found ""//noprotect"" - just add it at the start of the loop :)",en,
+306,RT @CSGO_Wild: CRAZY https://t.co/cOyKFGNaCK Bayonet Ruby &amp; Sapphire giveaway! Retweet and follow to enter. Drawn December 6th. https://t.c…,en,
+307,"RT @HT_S6: الرسام Ruby Silvious من نيويورك .
+ومختص بالرسم على أكياس الشاي ( لبتون) رائع
+
+#صورة #معلومات #يجذبني_لك https://t.co/rAQcZc53Xa",ar,
+308,https://t.co/8JPSRcSs4e #2489 Porcupine Ruby Eyes Pin Brooch 14k Yellow Gold Mom Gift Hedgehog Figural 3-D https://t.co/hXs4oOzKmz,en,
+309,"// Make a web application with no browser reloading.
+#javascript #php #debian #kalilinux 
+https://t.co/WSFMKa3zYM",en,
+310,on va voir ce que sa donne Foundation 6 avec Ruby on Rails,fr,
