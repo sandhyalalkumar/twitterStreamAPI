@@ -1,0 +1,36 @@
+import json
+import pandas as pd
+
+
+class chennai_tweets_parsing:
+        
+        def __init__(self, data_file_path):
+                self.data_file_path = data_file_path
+        
+        def people_status_on_chennai_flood(self):
+                tweets_data = []
+
+                tweets_file = open(self.data_file_path, "r")
+                for line in tweets_file:
+                        try:
+                                tweet = json.loads(line)
+                                tweets_data.append(tweet)
+                        except:
+                                continue
+        		
+                #print len(tweets_data)
+                #for l in tweets_data:
+                #        print l['created_at']+","+l['text']
+                
+                tweets = pd.DataFrame()
+                tweets['created_at'] = map(lambda tweetp:tweetp['created_at'], tweets_data)
+                tweets['text'] = map(lambda tweetp:tweetp['text'], tweets_data)
+                tweets['screen_name'] = map(lambda tweetp:tweetp['screen_name'], tweets_data)
+                
+                tweets.to_csv('few_col_chennai_data_frame.csv', encoding='utf-8')
+
+if __name__ == '__main__':
+        ch = chennai_tweets_parsing('twitter_data_chennai_flood.json')
+        ch.people_status_on_chennai_flood()
+
+
