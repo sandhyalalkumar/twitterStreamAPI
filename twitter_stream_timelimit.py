@@ -7,8 +7,8 @@ import json, io
 
 access_token ='3857401812-2jEgTo3Vj6U6DO9AUXgsRRdJrro4FZz4fTI18Yr' 
 access_token_secret = 'f4BzWopX1v66sG0df6omGwRrMTPIN5ZgDsXynt5Pn7RHm'
-consumer_key ='BdSJ15kEkzUPep0fL03akBryN'
-consumer_key_secret = 'Rl6qRcfEd2XAiaZy0a0lQSHpEWxMaiwqIbJCvuoUO2HglXXi6f'
+consumer_key ='RdhuMu2XR0UyzE070GqP4HuUD'
+consumer_key_secret = 'RI6IyqmEjHnypiJwmAop4vESMOPKIRL9mIKqe89Gp05QsbUW3N'
 
 start_time = time.time()
 keyword_list = ['Ajinkya Rahane',]
@@ -29,7 +29,7 @@ class listener(StreamListener):
 			try:
 				self.tweet_data.append(data)
 
-				with open('large_on_Ajinkya_rahane_tweets.json', 'a') as outfile:
+				with open('test_Ajinkya_rahane_tweets.json', 'a') as outfile:
 					outfile.write(data)
 
 				print(data)
@@ -54,7 +54,7 @@ class listener(StreamListener):
 
 if __name__ == '__main__':
 
-	listenObj = listener(start_time,12000)
+	listenObj = listener(start_time,1200)
 	authrize = OAuthHandler(consumer_key, consumer_key_secret)
 	authrize.set_access_token(access_token, access_token_secret)
 	new_stream = Stream(authrize,listenObj)

@@ -7,6 +7,12 @@ def user_count(file_name):
 
 	with open(file_name, 'r') as handle:
 		json_data = [json.loads(line) for line in handle]
+	#print json_data[1].keys()  #['timestamp_ms']
+	print json_data[1]['created_at']  #['sorce']
+	#print json_data[1]['entities']
+	print json_data[1]['geo']
+	  #['place']
+
 
 	user_tweets_count = {}
 	for jdata in json_data:
@@ -22,12 +28,13 @@ def user_count(file_name):
 			user_tweets_count[k] = c
 	#print(user_tweets_count)
 
+	print(len(user_tweets_count))
 	df = pd.DataFrame(user_tweets_count.items(), columns=['user', 'tweet_count'])
-	print df
+	#print df
 	#for key in user_tweets_count:
 	#	print key, user_tweets_count[key]
 
 
 
 if __name__ == '__main__':
-	user_count('on_Ajinkya_rahane_tweets.json')
+	user_count('large_on_Ajinkya_rahane_tweets.json')
